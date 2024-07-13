@@ -16,13 +16,13 @@
 リポジトリをクローンする
 
 ```bash
-git clone https://github.com/your-username/my-todo-app.git
+git clone https://github.com/your-username/todo-tutorial.git
 ```
 
 プロジェクトディレクトリに移動します。
 
 ```bash
-cd my-todo-app
+cd todo-tutorial
 ```
 
 必要な依存関係をインストールします。
