@@ -39,12 +39,12 @@ npm install
 npm run dev
 ```
 
-ブラウザで以下のURLにアクセスして、アプリケーションを確認できます。
+ブラウザで以下のURLにアクセスして、アプリケーションを確認できる。
 <http://localhost:5173>
 
 ## ディレクトリ構成
 
-プロジェクトの主なディレクトリとファイル構成は以下の通りです。
+プロジェクトの主なディレクトリとファイル構成は以下の通りとなっている。 
 
 ```
 my-todo-app/
@@ -53,7 +53,7 @@ my-todo-app/
 │   ├── vite.svg
 │   └── index.html
 ├── src/
-│   ├── App.tsx
+│   ├── App.tsx // メインとなるソースコード
 │   ├── index.css
 │   ├── main.tsx
 │   └── vite-env.d.ts
@@ -66,6 +66,6 @@ my-todo-app/
 ```
 
 主要なスクリプト
-npm run dev: ローカル開発サーバーを起動します。
-npm run build: アプリケーションをビルドします。
-npm run serve: ビルドされたアプリケーションをローカルサーバーで提供します。
+npm run dev: ローカル開発サーバーを起動する。
+npm run build: アプリケーションをビルドする。
+npm run serve: ビルドされたアプリケーションをローカルサーバーで提供する。
